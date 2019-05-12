@@ -18,6 +18,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		TextFiles\New\NewData.txt = TextFiles\New\NewData.txt
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database Scripts", "Database Scripts", "{96101648-3BF3-4102-8901-A3FB828F4F24}"
+	ProjectSection(SolutionItems) = preProject
+		MilitarydatabaseScript.sql = MilitarydatabaseScript.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
