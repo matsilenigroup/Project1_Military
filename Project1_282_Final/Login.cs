@@ -46,7 +46,7 @@ namespace Project1_282_Final
             }
             if (ranking)
             {
-                 
+                  
                 MessageBox.Show("Welcome : " + username);
                 this.Hide();
                 SuperUserForm pf = new SuperUserForm(userlist[0]);
